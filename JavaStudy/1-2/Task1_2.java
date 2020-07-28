@@ -26,15 +26,15 @@ public class Task1_2 {
         String strArray[] = {"りんご","もも","ぶどう"};
 
         // ④ ③で作成した配列の2番目の要素を出力しなさい。
-        System.out.println(strArray[2]);
+        System.out.println(strArray[1]);
         /* ⑤下記の処理について、何をしているのかコメントを記入してください。
          *  [ここへ記述]
          */
-        int[] intArray = { 10, 20, 30, 40, 50 };//intArrayをint宣言し、その変数を数字分用意し、代入したもの。
+        int[] intArray = { 10, 20, 30, 40, 50 };//INT配列を用意し、＝の右側のかっこで囲まれている値を格納したもの。
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
         // [ここへ記述]
-        System.out.println(intArray[1] + intArray[4]);//20と50を出力している。
+        System.out.println(intArray[1] + intArray[4]);//７０を出力している。
 
     }
 }
