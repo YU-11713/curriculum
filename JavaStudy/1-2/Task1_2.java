@@ -34,7 +34,7 @@ public class Task1_2 {
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
         // [ここへ記述]
-        System.out.println(intArray[1] + intArray[4]);//７０を出力している。
+        System.out.println(intArray[1] + intArray[4]);//intArray配列のインデックス１の整数２０とインデックス４の整数５０を足し合わせた、合計70を出力する。
 
     }
 }
